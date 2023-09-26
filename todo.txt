@@ -1,4 +1,3 @@
 Hi
 RMKEC
-CSE
-A Section
+
